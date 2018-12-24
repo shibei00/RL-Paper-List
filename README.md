@@ -3,7 +3,6 @@
 ## RL for Robotics
 Sim-to-Real via Sim-to-Sim: Data-efficient Robotic Grasping via Randomized-to-Canonical Adaptation Networks. [[pdf]](https://arxiv.org/abs/1812.07252)
 Learning to Adapt in Dynamic, Real-World Environments Through Meta-Reinforcement Learning. [[pdf]](https://arxiv.org/pdf/1803.11347.pdf)
-
 Pre-training with Non-expert Human Demonstration for Deep Reinforcement Learning. [[pdf]](https://arxiv.org/pdf/1812.08904.pdf)
 	    
 
