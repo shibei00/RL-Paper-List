@@ -9,6 +9,8 @@ Pre-training with Non-expert Human Demonstration for Deep Reinforcement Learning
 
 Supervised Policy Update for Deep Reinforcement Learning. [[pdf]](https://arxiv.org/pdf/1805.11706.pdf)
 
+Self-supervised Learning of Image Embedding for Continuous Control. [[pdf]](https://arxiv.org/pdf/1901.00943.pdf)
+
 ## RL for Games
 Domain Adaptation for Reinforcement Learning on the Atari. [[pdf]](https://arxiv.org/abs/1812.07452)
 
@@ -16,4 +18,6 @@ Domain Adaptation for Reinforcement Learning on the Atari. [[pdf]](https://arxiv
 
 ## RL Framework
 A Review of Meta-Reinforcement Learning for Deep Neural Networks Architecture Search. [[pdf]](A Review of Meta-Reinforcement Learning for Deep Neural Networks Architecture Search)
+
+
 
