@@ -14,10 +14,13 @@ Self-supervised Learning of Image Embedding for Continuous Control. [[pdf]](http
 ## RL for Games
 Domain Adaptation for Reinforcement Learning on the Atari. [[pdf]](https://arxiv.org/abs/1812.07452)
 
-## RL for Dialogs
-
-## RL Framework
+## RL Framework or Learning
 A Review of Meta-Reinforcement Learning for Deep Neural Networks Architecture Search. [[pdf]](A Review of Meta-Reinforcement Learning for Deep Neural Networks Architecture Search)
 
+An Investigation of Model-free Planning. [[pdf]](https://arxiv.org/pdf/1901.03559.pdf)
 
+On the Global Convergence of Imitation Learning: A Case for Linear Quadratic Regulator. [[pdf]](https://arxiv.org/pdf/1901.03674.pdf)
 
+Accelerated Methods for Deep Reinforcement Learning. [[pdf]](https://arxiv.org/abs/1803.02811)
+
+## RL for Dialogs
